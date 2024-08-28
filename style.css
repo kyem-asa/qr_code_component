@@ -1,26 +1,26 @@
-
 .attribution {
   font-size: 14px;
-  text-align: center; 
-  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
   padding-top: 4px;
-
 }
 
-.attribution a { 
-  color: hsl(228, 45%, 44%); 
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 body {
-  background: #fff;
+  background: #d5e1ef;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 
 .container {
-  background: rgba(212,225,238,255);
+  background: rgba(212, 225, 238, 255);
   text-align: center;
   font-size: 18px;
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   width: 375px;
   margin: 0 auto;
   height: 667px;
@@ -58,7 +58,7 @@ img {
   top: 4%;
 
   /* padding-top: 20px; */
-} 
+}
 
 .content {
   padding: 10px 30px 5px 30px;
